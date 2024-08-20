@@ -1,16 +1,9 @@
 # login_ekrani
+Gelecek Hayalim Projesi Flutter Eğitimi'nin 1. ödevi için hazırlanmıştır.
 
-A new Flutter project.
+## Tasarım, taslak ve çıktı
+![Ekran görüntüsü 2024-08-20 003536](https://github.com/user-attachments/assets/20ed0565-13db-47c7-b127-1dc7636aaba9)
 
-## Getting Started
+![Ekran görüntüsü 2024-08-20 003511](https://github.com/user-attachments/assets/a471376c-2811-466f-9e8a-00b1998d437c)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![sisterlabsödev1arkaplan](https://github.com/user-attachments/assets/c3f1a695-0ae6-4555-baf7-bc130bb57709)
